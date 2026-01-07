@@ -79,15 +79,6 @@ The application will be available at http://localhost:3000
 - Teacher can create and activate polls
 - Students can vote and see live results
 
-## Assignment Objective
-
-The goal of this assignment was to demonstrate:
-- Full stack development skills
-- Real-time data handling using WebSockets
-- Proper separation of frontend and backend
-- Handling timers and concurrent users
-
-## Notes
 
 This project was developed independently as part of the recruitment assignment and focuses on functionality and real-time behavior rather than UI design.
 
